@@ -1,0 +1,6 @@
+/node_modules/
+.DS_Store
+.gitattributes
+/.idea/
+/build/
+truffle-config.js
